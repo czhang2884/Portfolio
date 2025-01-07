@@ -1,8 +1,8 @@
 # Amateur Data Scientist
 
 ### Education
-Statistics MA @ University of Minnesota Twin Cities
-Statistics BA @ Carleton College
+- Statistics MA @ University of Minnesota Twin Cities
+- Statistics BA @ Carleton College
 
 ### Work Experience
 Data Fellow @ Delta Analytics
